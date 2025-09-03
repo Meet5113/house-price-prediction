@@ -40,4 +40,9 @@ Target: **Median House Value (`MedHouseVal`)**
 
 ---
 
-## 📂 Project Structure
+## 👨‍💻 Author
+
+- Name: Meet Vaghamshi
+- Role: B.Tech CSE (7th Sem) — Data Analyst & Python Programmer
+- GitHub: github.com/Meet5113
+- Email: vaghamshimeet05@gmail.com
